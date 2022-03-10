@@ -12,11 +12,6 @@
 #include <d3dcompiler.h>
 #include <DirectXMath.h>
 
-// STL Headers
-#include <algorithm>
-#include <cassert>
-#include <chrono>
-
 #if defined(min)
 #undef min
 #endif

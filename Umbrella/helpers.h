@@ -1,8 +1,7 @@
 #pragma once
 
-// Windows Native Headers
-#define WIN32_LEAN_AND_MEAN
-#include <Windows.h>
+// Precompiled Headers
+#include "stdafx.h"
 
 // STL Headers
 #include <stdexcept>
